@@ -1,7 +1,7 @@
 # BASIC_CALCULATIONS
 GET YOUR BASIC CALCULATIONS DONE IN HERE 
 
-The Java Projects In This File Are To Be Checked And Verified In BlueJ only 
+The Java Projects In This File Are To Be Checked And Verified In BlueJ only (Coding Done Withoiut Importing Scanner Class)
 *
 *
 *
